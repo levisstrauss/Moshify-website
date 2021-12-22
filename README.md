@@ -25,5 +25,5 @@ NB: Basically, the code of the website is push to github and connected to netlif
 
                           PAGES OVERVIEW
 
-![Aside](../images/Aside.png)
-![Header](../images/Header.png)
+![Aside](https://github.com/levisstrauss/Moshify-website/blob/2108c196e84ba614e8b55b69c6aaacb4d807662d/images/Aside.png)
+![Header](https://github.com/levisstrauss/Moshify-website/blob/2108c196e84ba614e8b55b69c6aaacb4d807662d/images/Header.png)
